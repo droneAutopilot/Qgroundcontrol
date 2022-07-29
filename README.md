@@ -1,25 +1,18 @@
-# QGroundControl Ground Control Station
+# Qgroundcontrol
+- Hướng dẫn build Qgroundcontrol 
+- Windown
+B1:
+B2:
+B3:
+B4:
+- B1: Chọn Kit để build
+- ![image](https://user-images.githubusercontent.com/18188862/181795704-3ac100e2-693c-4711-819d-36c834f59b54.png)
 
-[![Releases](https://img.shields.io/github/release/mavlink/QGroundControl.svg)](https://github.com/mavlink/QGroundControl/releases)
-[![Travis Build Status](https://travis-ci.org/mavlink/qgroundcontrol.svg?branch=master)](https://travis-ci.org/mavlink/qgroundcontrol)
-[![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/crxcm4qayejuvh6c/branch/master?svg=true)](https://ci.appveyor.com/project/mavlink/qgroundcontrol)
+- B2: Lựa chọn bản muốn build
+- ![image](https://user-images.githubusercontent.com/18188862/181795918-43f3448c-2639-44d3-99b3-bd2404d6c517.png)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mavlink/qgroundcontrol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- B3: Chọn Build hoặc Realse
+- ![image](https://user-images.githubusercontent.com/18188862/181796186-48b978da-e55c-413f-b65a-d682ff2b5987.png)
 
-
-*QGroundControl* (QGC) is an intuitive and powerful ground control station (GCS) for UAVs.
-
-The primary goal of QGC is ease of use for both first time and professional users. 
-It provides full flight control and mission planning for any MAVLink enabled drone, and vehicle setup for both PX4 and ArduPilot powered UAVs. Instructions for *using QGroundControl* are provided in the [User Manual](https://docs.qgroundcontrol.com/en/) (you may not need them because the UI is very intuitive!)
-
-All the code is open-source, so you can contribute and evolve it as you want. 
-The [Developer Guide](https://dev.qgroundcontrol.com/en/) explains how to [build](https://dev.qgroundcontrol.com/en/getting_started/) and extend QGC.
-
-
-Key Links: 
-* [Website](http://qgroundcontrol.com) (qgroundcontrol.com)
-* [User Manual](https://docs.qgroundcontrol.com/en/)
-* [Developer Guide](https://dev.qgroundcontrol.com/en/)
-* [Discussion/Support](https://docs.qgroundcontrol.com/en/Support/Support.html)
-* [Contributing](https://dev.qgroundcontrol.com/en/contribute/)
-* [License](https://github.com/mavlink/qgroundcontrol/blob/master/COPYING.md)
+- B4: Kết quả
+- ![image](https://user-images.githubusercontent.com/18188862/181796328-85f4cfbf-a884-4cab-97f1-34c4cd18a111.png)
