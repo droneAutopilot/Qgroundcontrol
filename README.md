@@ -1,3 +1,4 @@
+#Yêu cầu cần cài đặt Visual Studio 2017 chọn cài đặt C++
 # Qgroundcontrol
 - Hướng dẫn build Qgroundcontrol 
 - Windown
